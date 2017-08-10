@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: about_test
 subtitle: I am a smart heading.
 desc: About me.
-permalink: /about/
+permalink: /about_test/
 ---
 
 <div class="pretty-links">
