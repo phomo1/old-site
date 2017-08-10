@@ -1,10 +1,16 @@
 ---
 layout: page
 title: About
-subtitle: Steering committee
+subtitle: About
 desc: About PhOMO
 permalink: /about/
 ---
+<div align="justify">
+  The Philosophy of Memory Organization (PhOMO) is an international organization that fosters interaction among philosophers interested in the study of memory and its relationship to other cognitive phenomena and philosophical issues. PhoMo meets every two years, each time in a new location. We invite contributions (members?) from all sub-fields of philosophy and stages of professional development.
+</div> 
+
+<h1>Steering committee</h1>
+<br />
 <p>
 Felipe De Brigard (<a href="mailto:felipe.debrigard@duke.edu">felipe.debrigard@duke.edu</a>)<br />
 Duke University, USA<br />
