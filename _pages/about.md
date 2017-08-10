@@ -6,7 +6,7 @@ desc: About PhOMO
 permalink: /about/
 ---
 <p>
-Felipe De Brigard (<a href="mailto:felipe.debrigard@duke.edu"></a>)<br />
+Felipe De Brigard (<a href="mailto:felipe.debrigard@duke.edu">felipe.debrigard@duke.edu</a>)<br />
 Duke University, USA<br />
 <br />
 Sven Bernecker <s.bernecker@uci.edu>,<br />
