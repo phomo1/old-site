@@ -12,11 +12,11 @@ baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: jackal@gmail.com
-author: The Jackal
-twitter_username: clenemt
-github_username: clenemt
-github_source: jackal
+email: phomo@gmx.com
+author: PhOMO
+twitter_username: 
+github_username: 
+github_source: 
 
 # Put your ga tracking code below
 google_analytics: 'UA-XXXXXXXX-X'
@@ -29,18 +29,16 @@ paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf
 # Used to define the navigation menu items
 # > Title is the tile of the navigation item, url the url and desc is the tooltip
 navigation:
-  - title: Pages
-    url: /articles/
-    desc: Stuffs I write about
-  - title: Projects
-    url: /projects/
-    desc: Stuffs I like to do
-  - title: Work
-    url: /work/
-    desc: Stuffs I hate to do
   - title: About
     url: /about/
-    desc: Learn about me
+    desc: About PhOMO
+  - title: Pages
+    url: /pages/
+    desc: Pages
+  - title: Projects
+    url: /projects/
+    desc: Projects
+  
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
