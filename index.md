@@ -2,6 +2,7 @@
 layout: default
 ---
 
+Test
 
-<p <img src="us.jpg" border="1px"></p>
+<img src="us.JPG" border="1px">
  
