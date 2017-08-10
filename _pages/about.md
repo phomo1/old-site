@@ -8,7 +8,7 @@ permalink: /about/
 
 <h1>Steering committee</h1>
 
-# Felipe De Brigard <felipe.debrigard@duke.edu>,<br />
+Felipe De Brigard <felipe.debrigard@duke.edu>,<br />
 Duke University, USA
 Sven Bernecker <s.bernecker@uci.edu>,<br />
 Kourken Michaelian <kourken.michaelian@otago.ac.nz>,<br />
