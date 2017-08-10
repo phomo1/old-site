@@ -1,15 +1,14 @@
 ---
 layout: page
 title: About
-subtitle: Members
+subtitle: Steering committee
 desc: About PhOMO
 permalink: /about/
 ---
-
-<h1>Steering committee</h1>
 <p>
-Felipe De Brigard <felipe.debrigard@duke.edu>,<br />
+Felipe De Brigard (<a href="mailto:felipe.debrigard@duke.edu"></a>)<br />
 Duke University, USA<br />
+<br />
 Sven Bernecker <s.bernecker@uci.edu>,<br />
 University of California, Irvine, USA<br />
 University of Cologne, Germany <br />
