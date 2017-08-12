@@ -6,6 +6,8 @@ $gray:                      #55595c;
 $gray-light:                #818a91;
 $gray-lighter:              #eceeef;
 $gray-lightest:             #fafaf8;
+$red:                       #730000;
+$red-light:                 #eb0000;
 
 $blue:                      #4072AF;
 $light-blue:                lighten($blue, 45%);
@@ -16,8 +18,8 @@ $ligt-yellow:               #fcf8e3;
 $red:                       #bd4147;
 
 // COLORS - BRAND ------------------
-$brand-color:               $gray;
-$brand-light-color:         $gray-light;
+$brand-color:               $red;
+$brand-light-color:         $red-light;
 $brand-secondary:           $gray-dark;
 $text-muted:                $gray-light;
 
