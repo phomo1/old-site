@@ -21,8 +21,6 @@
 .site-header {
   margin: $spacer4 0 $spacer1;
   @include clearfix();
-  background-color: $gray;
-  color: $gray;
 }
 
 .site-logo {
@@ -34,9 +32,7 @@
   display: flex;
   justify-content: center;
   font-family: "Lato", serif;
-  font-size: 0.9rem;
-  background-color: $gray-lightest;
-  color: $gray;
+  font-size: 1.1rem;
 }
 
 .site-title {
