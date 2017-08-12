@@ -21,7 +21,7 @@
 .site-header {
   margin: $spacer4 0 $spacer1;
   @include clearfix();
-  color: grey;
+  background-color: $gray-lightest;
 }
 
 .site-logo {
