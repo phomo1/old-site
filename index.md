@@ -8,7 +8,7 @@ title: PhOMO
 <img src="us.JPG" border="1px">
 
 <div align="justify">
-<font size="5">
+<font size="4.5">
 <p>The Philosophy of Memory Organization (PhOMO) is an international organization that fosters interaction among philosophers interested in the study of memory and its relationship to other cognitive phenomena and philosophical issues. PhOMO meets every two years, each time in a new location. We invite contributions from all sub-fields of philosophy and stages of professional development.<br />
 <br />
 For more information, please visit <a href="/about/">about us</a>.</p>
