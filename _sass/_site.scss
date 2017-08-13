@@ -5,7 +5,7 @@
 .site {
   margin-right: auto;
   margin-left: auto;
-  padding: 0 $spacer2;
+  padding: 0 .25rem;
   @include make-container();
 }
 
