@@ -12,7 +12,7 @@ permalink: /about/
 <b>Contact:</b> <a href="mailto:phomo@gmx.com">phomo@gmx.com</a>
 <br />
 
-<h1>Steering committee</h1>
+<h5>Steering committee</h1>
 
 <p>
 Felipe De Brigard (<a href="mailto:felipe.debrigard@duke.edu">felipe.debrigard@duke.edu</a>)<br />
