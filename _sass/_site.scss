@@ -3,9 +3,9 @@
 }
 
 .site {
-  margin-right: 1cm;
-  margin-left: 1cm;
-  padding: 1cm 1cm 1cm 1cm 1cm;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 $spacer;
   @include make-container();
 }
 
