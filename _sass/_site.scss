@@ -20,6 +20,7 @@
 
 .site-header {
   margin: $spacer4 0 $spacer1;
+  color: $gray
   @include clearfix();
 }
 
