@@ -1,5 +1,6 @@
 ---
 layout: default
+title: PhOMO
 ---
 
 <h1>Philosophy of Memory Organization</h1>
