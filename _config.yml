@@ -31,14 +31,17 @@ navigation:
   - title: About
     url: /about/
     desc: About PhOMO
-  - title: Pages
-    url: /pages/
-    desc: Pages
+  - title: Works
+    url: /works/
+    desc: Works in Philosophy of Memory
   - title: Conferences
     url: /conferences/
     desc: Conferences
+  - title: Pages
+    url: /pages/
+    desc: Pages
   
-
+ 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
   -
