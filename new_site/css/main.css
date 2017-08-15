@@ -1,6 +1,10 @@
 
 blurb {
-	width: 80%
+	width: 80%;
+}
+
+.navcenter { 
+	float: center;
 }
 
 img {
