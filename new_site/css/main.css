@@ -1,4 +1,9 @@
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 site {
   margin-right: auto;
   margin-left: auto;
@@ -8,7 +13,7 @@ site {
 
 body {
     margin: auto;
-    width: 70%;
+    width: 100%;
 }
 
 nav ul, footer ul {
