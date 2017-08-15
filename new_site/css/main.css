@@ -1,4 +1,11 @@
 
+site {
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 .25rem;
+  @include make-container();
+}
+
 body {
     margin: auto;
     width: 70%;
