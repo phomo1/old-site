@@ -3,6 +3,10 @@ blurb {
 	width: 80%;
 }
 
+header {
+	width: 100%;
+}
+
 .navcenter { 
 	float: center;
 }
