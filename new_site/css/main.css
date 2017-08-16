@@ -1,7 +1,6 @@
 .container {
 	width: 80%;
-	padding-right: 1cm;
-	padding-left: 1cm;
+	padding-left: 4cm;
 }
 
 header {
@@ -9,7 +8,8 @@ header {
 }
 
 nav { 
-	float: center;
+   width:100%;
+   text-align:center;
 }
 
 img {
