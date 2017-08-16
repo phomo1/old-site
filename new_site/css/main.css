@@ -1,16 +1,17 @@
 .container {
 	width: 80%;
 	padding-left: 4cm;
+	padding-right: 4cm;
 }
 
 header {
 	width: 100%;
-	text-align:center;
+	text-align: center;
 }
 
 nav { 
-   width:100%;
-   text-align:center;
+   width: 100%;
+   text-align: center;
 }
 
 img {
