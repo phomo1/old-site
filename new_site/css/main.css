@@ -1,5 +1,7 @@
 .container {
 	width: 80%;
+	padding-right: 1cm;
+	padding-left: 1cm;
 }
 
 header {
