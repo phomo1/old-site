@@ -12,6 +12,7 @@ header {
 nav { 
    width: 100%;
    text-align: center;
+   display: inline-block; 
 }
 
 img {
@@ -91,7 +92,8 @@ ul {
 }
 
 li {
-    float: left;
+   display: inline-block;
+   text-align:center; 
 }
 
 li a {
