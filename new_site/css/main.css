@@ -1,6 +1,7 @@
 .container {
 	width: 80%;
 	padding-left: 3cm;
+	padding-right: 3cm;
 }
 
 header {
@@ -81,7 +82,7 @@ box1 {
     margin: 25px;
 }
 
-#nav ul {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
