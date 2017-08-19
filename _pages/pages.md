@@ -1,9 +1,0 @@
----
-layout: page
-title: Pages
-subtitle: Pages
-desc: Pages
-permalink: /pages/
----
-
-Some external links here?
