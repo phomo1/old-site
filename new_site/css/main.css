@@ -39,8 +39,11 @@ ul {
 }
 
 li {
-   display: inline-block; 
-float: left;
+   	display: inline-block; 
+	float: left;
+	padding-left: 30%;
+	font-size: 3em;
+    	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 li a {
