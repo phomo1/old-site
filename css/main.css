@@ -20,6 +20,7 @@ img {
 
 body {
     margin: auto;
+margin-bottom: 1cm;
     width: 100%;
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -42,7 +43,8 @@ ul {
 
 li {
 	float: left;
-	padding-left: 10%;
+	margin-left: 10%;
+	margin-right: 10%;
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	font-size: 1em;
 	
