@@ -43,8 +43,8 @@ ul {
 
 li {
 	float: left;
-	padding-left: 10%;
-	padding-right: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	font-size: 1em;
 	
@@ -54,7 +54,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 18px 1px;
+    padding: 8px 0px;
     text-decoration: none;
 }
 
