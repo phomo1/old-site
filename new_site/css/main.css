@@ -1,7 +1,7 @@
 .container {
 	width: 80%;
-	padding-left: 30%;
-	padding-right: 30%;
+	padding-left: 3cm;
+	padding-right: 3cm%;
 }
 
 header {
@@ -41,9 +41,8 @@ ul {
 li {
    	display: inline-block; 
 	float: left;
-	padding-left: 30%;
-	font-size: 3em;
-    	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	padding-left: 10%;
+
 }
 
 li a {
