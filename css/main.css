@@ -36,7 +36,7 @@ h1 {
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding-left: 5%;
     overflow: hidden;
     background-color: #333;
 }
@@ -54,18 +54,10 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 8px 0px;
+    padding: 20px 0px;
     text-decoration: none;
 }
 
 li a:hover {
-    background-color: #111;
+    color: grey;
 }
-
-
-img1 {
-	float:left;
-}
-
-
-
