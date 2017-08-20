@@ -1,9 +1,11 @@
 .container {
+	width: auto;
 	margin-left: 2.5cm;
+	margin-right: 2.5cm
 }
 
 header {
-	width: auto;
+	width: 100%;
 	text-align:center;
 }
 
@@ -30,20 +32,21 @@ h1 {
 }
 
 
-.nav ul {
-  list-style: none;
-  background-color: #444;
-  text-align: center;
-  padding: 0;
-  margin: 0;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 5%;
+    overflow: hidden;
+    background-color: #333;
 }
 
-.nav li {
-  font-family: 'Oswald', sans-serif;
-  font-size: 1.2em;
-  line-height: 40px;
-  height: 40px;
-  border-bottom: 1px solid #888;
+li {
+	float: left;
+	margin-left: 5%;
+	margin-right: 5%;
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	font-size: 1em;
+	
 }
 
 li a {
