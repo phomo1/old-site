@@ -1,10 +1,9 @@
 .container {
-	width: 80%;
-	padding: auto;
+	margin-left: 2.5cm;
 }
 
 header {
-	width: 100%;
+	width: auto;
 	text-align:center;
 }
 
