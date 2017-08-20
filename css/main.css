@@ -22,13 +22,13 @@ body {
     margin: auto;
     width: 100%;
     font-size: 1em;
-    font-family:'Helvetica', 'Sans-Serif';
+    font-family:'Oswald', 'Sans-Serif';
 }
 
 
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Oswald', 'Sans-Serif';
 }
 
 
@@ -44,7 +44,7 @@ li {
 	float: left;
 	margin-left: 5%;
 	margin-right: 5%;
-	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	font-family:'Oswald', 'Sans-Serif';
 	font-size: 1em;
 	
 }
