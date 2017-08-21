@@ -99,4 +99,7 @@ a:hover {
 	color: silver;
 }
 
+p.big {
+    line-height: 200%;
+}
 
