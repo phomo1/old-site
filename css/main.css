@@ -5,7 +5,7 @@ div.container {
 }
 
 header {
-	width: 80%;
+	width: 100%;
 	text-align:center;
 	margin: 1cm auto;
 }
@@ -41,8 +41,7 @@ ul {
 
 li {
 	float: left;
-	margin-left: 5%;
-	margin-right: 5%;
+	margin: 0 auto;
 	font-family:'Open Sans', 'Sans-Serif';
 	font-size: 1em;
 	
