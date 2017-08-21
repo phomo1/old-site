@@ -5,7 +5,7 @@
 }
 
 header {
-	width: 100%;
+	width: auto;
 	text-align:center;
 }
 
@@ -15,12 +15,13 @@ nav {
 
 img {
     max-width: 100%;
+    min-width: 50%
     height: auto;
 }
 
 body {
     margin: auto;
-    width: 100%;
+    width: auto;
     font-size: 1em;
     font-family:'Oswald', 'Sans-Serif';
 }
