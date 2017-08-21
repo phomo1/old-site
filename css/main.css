@@ -94,3 +94,13 @@ p {
 	font-weight: 400;
 	line-height: 20px;
 }
+
+a:link {
+    color: grey;
+}
+
+/* visited link */
+a:visited {
+    color: silver;
+}
+
