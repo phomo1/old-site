@@ -30,13 +30,6 @@ body {
     font-family: 'Open Sans', 'Sans Serif';
 }
 
-
-h1 {
-    font-size: 3em;
-    font-family:'Oswald', 'Sans-Serif';
-}
-
-
 ul {
     list-style-type: none;
     margin: 0;
@@ -64,4 +57,29 @@ li a {
 
 li a:hover {
     color: grey;
+}
+
+h1 {
+	font-family: "Open Sans";
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h3 {
+	font-family: "Open Sans";
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p {
+	font-family: "Open Sans";
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
 }
