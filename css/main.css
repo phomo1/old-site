@@ -56,7 +56,7 @@ li a, li a:visited {
     text-decoration: none;
 }
 
-li a:hover {
+li a:hover, li a:selected {
     color: grey;
 }
 
