@@ -41,7 +41,8 @@ ul {
 
 li {
 	float: left;
-	margin: 0 auto;
+	margin-right: 5%;
+	margin-left: 5%;
 	font-family:'Open Sans', 'Sans-Serif';
 	font-size: 1em;
 	
