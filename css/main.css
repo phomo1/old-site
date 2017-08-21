@@ -22,7 +22,8 @@ img {
 }
 
 body {
-    margin: auto;
+    width: 100%
+    margin: 0 auto;
     margin-bottom: 2cm;
     width: auto;
     font-size: 1em;
