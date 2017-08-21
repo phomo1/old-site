@@ -48,7 +48,7 @@ li {
 	
 }
 
-li a {
+li a, li a:visited {
     display: block;
     color: white;
     text-align: center;
@@ -87,7 +87,7 @@ p {
 	line-height: 20px;
 }
 
-a:link {
+a:link, a:visited {
     color: grey;
 }
 
