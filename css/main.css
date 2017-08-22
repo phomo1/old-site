@@ -6,20 +6,20 @@ div.container {
 
 header {
 	width: 100%;
+	min-width: 80%
 	text-align:center;
 	margin: 1cm auto;
 }
 
 nav { 
    width: 100%;
+   min-width: 80%;
    margin: 0 auto;
    font-family: 'Open Sans', 'Sans Serif';
 }
 
 img {
     max-width: 100%;
-    min-width: 50%
-    height: auto;
 }
 
 body {
