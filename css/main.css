@@ -11,8 +11,8 @@ header {
 }
 
 nav { 
-   width:500px;
-   min-width: 100px;
+   width:100%;
+   min-width: 600px;
    margin: 0 auto;
    font-family: 'Open Sans', 'Sans Serif';
 }
@@ -22,8 +22,7 @@ img {
 }
 
 body {
-    width: 500px;
-    min-width: 200px;
+    width: 100%;
     margin: 0 auto;
     margin-bottom: 2cm;
     font-size: 1em;
@@ -36,7 +35,6 @@ ul {
     padding-left: 5%;
     overflow: hidden;
     background-color: #333;
-    min-width: 100px;
 }
 
 li {
