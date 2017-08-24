@@ -21,9 +21,9 @@ nav {
    font-family: 'Open Sans', 'Sans Serif';
 }
 
-img {
-    max-width: 100%;
-    min-width: 60%;
+img.main {
+    margin: 0 auto;
+    width: 80%;	
 }
 
 body {
