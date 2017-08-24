@@ -18,9 +18,6 @@ header {
 
 nav { 
    white-space: nowrap;
-   overflow: hidden;
-   margin: 0 auto;
-   font-family: 'Open Sans', 'Sans Serif';
 }
 
 img {
@@ -37,19 +34,19 @@ body {
 }
 
 nav ul {
-    list-style-type: none;
-    margin: 0 auto; 
-    width: 100%; 
-    white-space:nowrap;
-    padding-left: 5%;
-    overflow: hidden;
+    display: inline-block;
+    list-style: none;
+    width: 100%;
     background-color: #333;
 }
 
 nav li {
-	display: inline-block;
-	font-family:'Open Sans', 'Sans-Serif';
-	font-size: 1em;
+	
+    display: inline-block;
+    text-align: center;
+    margin-left: -4px;
+    font-family:'Open Sans', 'Sans-Serif';
+    font-size: 1em;
 	
 }
 
