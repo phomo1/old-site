@@ -1,11 +1,11 @@
 div.container {
-	width: 80%;
+	width: 100%;
 	margin: 0 auto;
 	font-family: 'Open Sans', 'Sans Serif';
 }
 
 div.nav-container {
-	width: 80%;
+	width: 100%;
 	margin: 0 auto;
 	font-family: 'Open Sans', 'Sans Serif';
 }
@@ -24,10 +24,11 @@ nav {
 
 img {
     max-width: 100%;
+    min-width: 60%;
 }
 
 body {
-    width: 70%;
+    width: 100%;
     margin: 0 auto;
     margin-bottom: 2cm;
     font-size: 1em;
