@@ -5,7 +5,8 @@ div.container {
 }
 
 div.nav-container {
-	min-width:600px;
+	min-width:300px;
+	max-width:600px;
 	margin: 0 auto;
 	font-family: 'Open Sans', 'Sans Serif';
 }
