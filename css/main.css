@@ -40,6 +40,7 @@ nav li {
     margin-left: -4px;
     font-family:'Open Sans', 'Sans-Serif';
     font-size: 1em;
+    width: 33%;
 	
 }
 
@@ -48,6 +49,7 @@ nav li a, li a:visited {
     color: white;
     text-align: center;
     text-decoration: none;
+    padding: 20px 0px;
 }
 
 li a:hover {
