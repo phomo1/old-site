@@ -7,10 +7,11 @@ div.container {
 header {
 	width: 100%;
 	text-align:center;
-	margin: 1cm auto;
+	margin: 0 auto;
 }
 
 nav { 
+   width:500px;
    min-width: 100px;
    margin: 0 auto;
    font-family: 'Open Sans', 'Sans Serif';
@@ -21,8 +22,8 @@ img {
 }
 
 body {
-    width: 1000px;
-    min-width: 500px;
+    width: 500px;
+    min-width: 200px;
     margin: 0 auto;
     margin-bottom: 2cm;
     font-size: 1em;
