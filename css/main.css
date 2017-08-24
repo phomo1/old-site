@@ -4,12 +4,6 @@ div.container {
 	font-family: 'Open Sans', 'Sans Serif';
 }
 
-div.nav-container {
-	width: 80%;
-	margin: 0 auto;
-	font-family: 'Open Sans', 'Sans Serif';
-}
-
 header {
 	width: 100%;
 	text-align:center;
@@ -54,7 +48,6 @@ nav li a, li a:visited {
     display: inline-block;
     color: white;
     text-align: center;
-    padding: 20px 0px;
     text-decoration: none;
 }
 
