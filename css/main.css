@@ -17,11 +17,12 @@ header {
 }
 
 nav { 
+   overflow: hidden;
    margin: 0 auto;
    font-family: 'Open Sans', 'Sans Serif';
 }
 
-img.main {
+img {
     margin: 0 auto;
     width: 80%;	
 }
