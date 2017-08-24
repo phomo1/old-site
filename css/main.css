@@ -21,7 +21,8 @@ img {
 }
 
 body {
-    width: 100%
+    width: 1000px;
+    min-width: 500px;
     margin: 0 auto;
     margin-bottom: 2cm;
     font-size: 1em;
