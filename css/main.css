@@ -24,8 +24,7 @@ body {
     width: 100%
     margin: 0 auto;
     margin-bottom: 2cm;
-    width: auto;
-    font-size: 1.2em;
+    font-size: 1em;
     font-family: 'Open Sans', 'Sans Serif';
 }
 
@@ -35,6 +34,7 @@ ul {
     padding-left: 5%;
     overflow: hidden;
     background-color: #333;
+    min-width: 100px;
 }
 
 li {
@@ -65,6 +65,15 @@ h1 {
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 26.4px;
+}
+
+h1.title {
+	font-family: "Open Sans";
+	font-size: 2.5em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 200%;
 }
 
 h2 {
