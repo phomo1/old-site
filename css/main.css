@@ -17,6 +17,7 @@ header {
 }
 
 nav { 
+   white-space: nowrap;
    overflow: hidden;
    margin: 0 auto;
    font-family: 'Open Sans', 'Sans Serif';
@@ -35,25 +36,26 @@ body {
     font-family: 'Open Sans', 'Sans Serif';
 }
 
-ul {
+nav ul {
     list-style-type: none;
+    margin: 0 auto; 
+    width: 100%; 
     margin: 0;
+    white-space:nowrap;
     padding-left: 5%;
     overflow: hidden;
     background-color: #333;
 }
 
-li {
-	float: left;
-	margin-right: 5%;
-	margin-left: 5%;
+nav li {
+	display: inline-block;
 	font-family:'Open Sans', 'Sans-Serif';
 	font-size: 1em;
 	
 }
 
-li a, li a:visited {
-    display: block;
+nav li a, li a:visited {
+    display: inline-block;
     color: white;
     text-align: center;
     padding: 20px 0px;
