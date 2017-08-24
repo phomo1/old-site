@@ -5,6 +5,7 @@ div.container {
 }
 
 div.nav-container {
+	width: 80%;
 	margin: 0 auto;
 	font-family: 'Open Sans', 'Sans Serif';
 }
