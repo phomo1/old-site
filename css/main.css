@@ -4,6 +4,12 @@ div.container {
 	font-family: 'Open Sans', 'Sans Serif';
 }
 
+div.nav-container {
+	min-width:600px;
+	margin: 0 auto;
+	font-family: 'Open Sans', 'Sans Serif';
+}
+
 header {
 	width: 100%;
 	text-align:center;
