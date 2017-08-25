@@ -31,14 +31,14 @@ nav ul {
     list-style: none;
     width: 100%;
     background-color: #333;
-    margin-left: -2cm;
+    margin-left: 0;
 }
 
 nav li {
 	
     display: inline-block;
     text-align: center;
-    margin-left: 1cm;
+    margin-left: 18px;
     font-family:'Open Sans', 'Sans-Serif';
     font-size: 1em;
     width: 15%;
