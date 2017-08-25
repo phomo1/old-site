@@ -12,6 +12,9 @@ header {
 
 nav { 
    white-space: nowrap;
+   margin:0 auto;
+   padding:0;
+   text-align:center;
 }
 
 img {
@@ -34,6 +37,13 @@ nav ul {
     margin-left: -3%;
 		
 }
+
+ul.nav li:first-child a{
+    border:none;
+}
+
+ul.nav li:last-child a {
+    border:none;
 
 nav li {
 	
