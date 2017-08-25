@@ -39,10 +39,10 @@ nav li {
 	
     display: inline-block;
     text-align: center;
-    margin-left: 18px;
+    margin-left: 10px;
     font-family:'Open Sans', 'Sans-Serif';
     font-size: 1em;
-    width: 15%;
+    width: 20%;
 	
 }
 
@@ -60,6 +60,10 @@ li a:hover {
 
 li:first-child{
     margin-left: 0;
+}
+
+li:last-child{
+    margin-right: 0;
 }
 
 
