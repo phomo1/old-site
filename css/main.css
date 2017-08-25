@@ -36,10 +36,9 @@ nav ul {
 }
 
 nav li {
-	
     display: inline-block;
     text-align: center;
-    margin-left: 10px;
+    margin-left: 5px;
     font-family:'Open Sans', 'Sans-Serif';
     font-size: 1em;
     width: 20%;
