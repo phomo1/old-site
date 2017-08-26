@@ -29,7 +29,7 @@ div.topnav {
 }
 
 .topnav a {
-  display: inline-block;
+    display: block;
     color: white;
     text-align: center;
     text-decoration: none;
@@ -37,12 +37,10 @@ div.topnav {
 }
 
 .topnav li {
-    display: inline-block;
+    display: block;
     text-align: center;
-    margin-left: -18px;
     font-family:'Open Sans', 'Sans-Serif';
     font-size: 1em;
-    width: 20%;
 	
 }
 
