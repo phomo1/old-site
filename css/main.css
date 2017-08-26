@@ -28,27 +28,20 @@ div.topnav {
   background-color: #333;
 }
 
-div.topnav a {
+.topnav a {
     display: inline-block;
     color: white;
     text-align: center;
     text-decoration: none;
     padding: 20px 15px;
+    font-family: 'Open Sans', 'Sans Serif';
 }
 
-div.topnav li {
-    display: inline-block;
-    text-align: center;
-    font-family:'Open Sans', 'Sans-Serif';
-    font-size: 1em;
-	
-}
-
-div.topnav a:hover {
+.topnav a:hover {
   color: gray;
 }
 
-div.topnav .icon {
+.topnav .icon {
   display: none;
 }
 
