@@ -28,7 +28,7 @@ div.topnav {
   background-color: #333;
 }
 
-.topnav a {
+div.topnav a {
     display: inline-block;
     color: white;
     text-align: center;
@@ -36,7 +36,7 @@ div.topnav {
     padding: 20px 15px;
 }
 
-.topnav li {
+div.topnav li {
     display: inline-block;
     text-align: center;
     font-family:'Open Sans', 'Sans-Serif';
@@ -44,11 +44,11 @@ div.topnav {
 	
 }
 
-.topnav a:hover {
+div.topnav a:hover {
   color: gray;
 }
 
-.topnav .icon {
+div.topnav .icon {
   display: none;
 }
 
@@ -56,7 +56,7 @@ div.topnav {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
-    display: block;
+    display: inline-block;
   }
 }
 
