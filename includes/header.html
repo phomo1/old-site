@@ -8,14 +8,26 @@
 			<h1 class="title"><b>Philosophy of Memory Organization</b></h1>
 		<br />
 		
-<nav>
-<ul>
-	<li><a href="/index.html">Home</a></li>
+<div class="topnav" id="myTopnav">
+<li><a href="/index.html">Home</a></li>
 <li><a href="/pages/about.html">About</a></li>
 <li><a href="/pages/members.html">Members</a></li>	
 <li><a href="/pages/events.html">Events</a></li>
 <li><a href="/pages/join.html">Join</a></li>
-</ul>
+<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
 		</nav>
-			</header>  
-  </html>
+		
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
+
+</header>  
+ </html>
