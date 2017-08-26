@@ -36,6 +36,16 @@ div.topnav {
     padding: 20px 15px;
 }
 
+.topnav li {
+    display: inline-block;
+    text-align: center;
+    margin-left: -18px;
+    font-family:'Open Sans', 'Sans-Serif';
+    font-size: 1em;
+    width: 20%;
+	
+}
+
 .topnav a:hover {
   color: gray;
 }
