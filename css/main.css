@@ -29,7 +29,8 @@ div.topnav {
 }
 
 .topnav a {
-    display: inline-block;
+    float: left;
+    display: block;
     color: white;
     text-align: center;
     text-decoration: none;
@@ -49,7 +50,7 @@ div.topnav {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
-    display: inline-block;
+    display: block;
   }
 }
 
