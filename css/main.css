@@ -30,7 +30,8 @@ div.topnav {
 }
 
 .topnav a {
-    display: inline-block;
+    float: left;
+    display: block;
     color: white;
     text-align: center;
     text-decoration: none;
@@ -48,7 +49,7 @@ div.topnav {
 
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child) {display: none;}
-  .topnav a(:last-child) {display: none;}
+  .topnav a:(:last-child) {display: none;}
   .topnav a.icon {
     float: right;
     display: block;
