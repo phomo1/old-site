@@ -6,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
 	<script src="https://www.w3schools.com/lib/w3.js"></script>
 	<div w3-include-html="/includes/header.html"></div> 
+	<link rel="stylesheet" href="/css/slimmenu.min.css" type="text/css">
 
 <script>
 w3.includeHTML();
@@ -15,11 +16,34 @@ w3.includeHTML();
 		
 	<body>
 		
+	<nav>
+	<ul id="navigation" class="slimmenu">
+		
+		<li><a href="/index.html">Home</a></li>
+    		<li><a href="/pages/about.html">About</a></li>
+    		<li><a href="/pages/members.html">Members</a></li>
+    		<li><a href="/pages/events.html">Events</a></li>
+		<li><a href="/pages/join.html">Join</a></li>
+		</ul>
+		</nav>
+		
 	<div class="container">
 		<h2><b>Join</b></h2>
 		<br />
 		To join our low-volume mailing list and receive updates on future events, please send a message to <a href="mailto:phomo@gmx.com"><b>phomo@gmx.com</b></a>.
 		</div> 
+		
+		<script src="/js/jquery.slimmenu.min.js"></script>
+		
+		$('#navigation').slimmenu(
+{
+    resizeWidth: '800',
+    collapserTitle: 'Main Menu',
+    animSpeed: 'medium',
+    easingEffect: null,
+    indentChildren: false,
+    childrenIndenter: '&nbsp;'
+});
 
 	</body>
 
