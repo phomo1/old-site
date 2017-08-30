@@ -70,7 +70,7 @@ body {
     float: none;
     display: block;
   }
-.topnav.responsive a:first-childe {
+.topnav.responsive a:first-child {
     float: left;
     display: block;
   }
