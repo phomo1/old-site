@@ -52,7 +52,7 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-  .topnav a:not(:first-child) {display: none; float: left;}
+  .topnav a:not(:first-child) {display: block; float: left;}
   .topnav a.icon {
    float: right;
    display: block;
