@@ -70,6 +70,10 @@ body {
     float: none;
     display: block;
   }
+.topnav.responsive a:first-childe {
+    float: left;
+    display: block;
+  }
 
 }
 
