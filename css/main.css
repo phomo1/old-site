@@ -68,7 +68,7 @@ body {
   }
   .topnav.responsive a {
     float: left;
-    display: block;
+    display: inline-block;
   }
 
 }
