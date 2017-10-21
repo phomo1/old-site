@@ -29,7 +29,11 @@ body {
   text-align: center;
 }
 	
-.topnav a:link, a:visited {
+.topnav a:link {
+	color: white;
+}
+	
+.topnav a, a:visited {
     display: inline-block;
     color: white;
     text-align: center;
