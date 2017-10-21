@@ -130,6 +130,6 @@ p.big {
 .right-half {
   float: left;
   width: 50%;
-  margin: 1cm;
+  margin-left: 1em;
   font-family: 'Open Sans', 'Sans Serif';
 }
