@@ -123,13 +123,13 @@ p.big {
 .left-half {
   float: left;
   width: 50%;
-  margin: 0 auto;
+  margin: auto;
   font-family: 'Open Sans', 'Sans Serif';
 }
 
 .right-half {
   float: left;
   width: 50%;
-  margin: 0 auto;
+  margin: auto;
   font-family: 'Open Sans', 'Sans Serif';
 }
