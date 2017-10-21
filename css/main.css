@@ -117,3 +117,14 @@ p.big {
     line-height: 200%;
     font-size: 0.8em;
 }
+
+/*half-half containers*/
+
+.left-half {
+  float: left;
+  width: 50%;
+}
+.right-half {
+  float: left;
+  width: 50%;
+}
