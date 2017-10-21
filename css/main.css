@@ -105,7 +105,7 @@ p {
 	font-family: "Open Sans";
 }
 
-a:link, a:visited {
+a:link, {
     color: grey;
 }
 
