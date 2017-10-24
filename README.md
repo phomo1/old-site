@@ -11,3 +11,5 @@ NOTE: the image (us.JPG) in the index.html file must be at the main folder (outs
 * All the html pages must be on the main folder. If they are inside a subfolder, the responsive navbar will not work.
 
 * Do not delte the CNAME file -- it's responsible for redirecting to phomo.org
+
+* To edit the navbar, go to /includes/header.html
