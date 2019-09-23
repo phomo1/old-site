@@ -4,6 +4,11 @@ div.container {
 	font-family: 'Open Sans', 'Sans Serif';
 }
 
+div.list {
+	padding-left: 5px;
+	font-family: 'Open Sans', 'Sans Serif';
+}
+
 header {
 	width: 100%;
 	text-align:center;
