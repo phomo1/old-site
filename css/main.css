@@ -133,3 +133,11 @@ p.big {
   margin: auto;
   font-family: 'Open Sans', 'Sans Serif';
 }
+
+/*column containers*/
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
