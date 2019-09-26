@@ -9,6 +9,13 @@ div.list {
 	font-family: 'Open Sans', 'Sans Serif';
 }
 
+#h2.padding {
+	
+padding-left: 7px;
+
+}
+
+
 #list ul {
 	list-style-type: square;
 }  
