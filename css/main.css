@@ -9,6 +9,14 @@ div.list {
 	font-family: 'Open Sans', 'Sans Serif';
 }
 
+#list ul {
+	list-style-type: square;
+}  
+
+#list ul li {
+	padding: 5px 0;
+}
+
 header {
 	width: 100%;
 	text-align:center;
