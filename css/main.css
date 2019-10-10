@@ -10,6 +10,12 @@ div.list {
 	font-family: 'Open Sans', 'Sans Serif';
 }
 
+div.list-container {
+	padding-top: -10px;
+	padding-left: 20px;
+	font-family: 'Open Sans', 'Sans Serif';
+}
+
 h4 {
 	
 padding-left: 7px;
