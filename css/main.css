@@ -13,12 +13,13 @@ div.list {
 h4 {
 	
 padding-left: 7px;
+padding-top: -20px;
 
 }
 
 
 #list ul {
-	padding-top: -10px;
+	
 	list-style-type: square;
 }  
 
