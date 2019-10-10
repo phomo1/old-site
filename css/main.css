@@ -124,6 +124,7 @@ h2 {
 
 p {
 	font-family: "Open Sans";
+	text-align: justify;
 }
 
 a:link, a:visited {
