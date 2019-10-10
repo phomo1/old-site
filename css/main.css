@@ -12,6 +12,7 @@ div.blurb {
 
 div.list {
 	padding-left: 20px;
+	padding-top: -50px;
 	font-family: 'Open Sans', 'Sans Serif';
 }
 
@@ -21,17 +22,12 @@ padding-left: 7px;
 
 }
 
-#list {
-	padding-top: -50px;
-	
-}
-
-#list ul {
+.list ul {
 	
 	list-style-type: square;
 }  
 
-#list ul li {
+.list ul li {
 	padding: 5px 0;
 }
 
