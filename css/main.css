@@ -4,14 +4,13 @@ div.container {
 	font-family: 'Open Sans', 'Sans Serif';
 }
 
-div.list {
+div.blurb {
 	padding-top: 5px;
 	padding-left: 20px;
 	font-family: 'Open Sans', 'Sans Serif';
 }
 
-div.list-container {
-	padding-top: -10px;
+div.list {
 	padding-left: 20px;
 	font-family: 'Open Sans', 'Sans Serif';
 }
@@ -30,7 +29,7 @@ padding-bottom: -20px;
 }  
 
 #list ul li {
-	padding: 5px 0;
+	padding: 5px -10px;
 }
 
 header {
