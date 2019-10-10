@@ -18,7 +18,6 @@ div.list {
 h4 {
 	
 padding-left: 7px;
-padding-bottom: -20px;
 
 }
 
@@ -26,7 +25,7 @@ padding-bottom: -20px;
 #list ul {
 	
 	list-style-type: square;
-	padding-top: 0;
+	padding-top: -50px;
 }  
 
 #list ul li {
