@@ -5,7 +5,7 @@ div.container {
 }
 
 div.list {
-	
+	padding-top: 10px;
 	padding-left: 20px;
 	font-family: 'Open Sans', 'Sans Serif';
 }
@@ -13,7 +13,7 @@ div.list {
 h4 {
 	
 padding-left: 7px;
-padding-top: -20px;
+padding-bottom: -20px;
 
 }
 
