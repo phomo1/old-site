@@ -21,11 +21,14 @@ padding-left: 7px;
 
 }
 
+#list {
+	padding-top: -50px;
+	
+}
 
 #list ul {
 	
 	list-style-type: square;
-	padding-top: -50px;
 }  
 
 #list ul li {
